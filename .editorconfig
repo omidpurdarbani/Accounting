@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE0055: Fix formatting
+dotnet_diagnostic.IDE0055.severity = none
+
+# CS0436: Type conflicts with imported type
+dotnet_diagnostic.CS0436.severity = none
